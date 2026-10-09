@@ -1,4 +1,11 @@
 # Decode-Labs-Data-Cleaning
+Step 1
+<img width="1360" height="707" alt="Step 1" src="https://github.com/user-attachments/assets/f9e9e9c4-07c2-47b8-aa63-e56f0c4be772" />
+Step 2
+<img width="1358" height="706" alt="Step 2" src="https://github.com/user-attachments/assets/6593845d-7848-49da-95cb-e210e6ce825a" />
+Step 3
+<img width="1362" height="708" alt="Step 3" src="https://github.com/user-attachments/assets/dc5a0ba5-7ca5-4527-a699-624b9c33bdec" />
+
 
 ## Project Overview
 
