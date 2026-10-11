@@ -1,4 +1,4 @@
-# Decode-Labs-Data-Cleaning
+# Task-1-Data-Cleaning
 Step 1
 <img width="1360" height="707" alt="Step 1" src="https://github.com/user-attachments/assets/f9e9e9c4-07c2-47b8-aa63-e56f0c4be772" />
 Step 2
